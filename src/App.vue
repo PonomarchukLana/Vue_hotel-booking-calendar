@@ -4,17 +4,17 @@
       alt="Vue logo"
       src="./assets/logo.png"
     >-->
-    <HelloWorld />
+    <ReserveCalendar />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ReserveCalendar from './components/ReserveCalendar.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    ReserveCalendar
   }
 }
 </script>

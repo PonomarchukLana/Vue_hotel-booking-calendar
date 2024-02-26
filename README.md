@@ -1,4 +1,5 @@
 # hotel-booking-calendar
+[DEMO LINK](https://ponomarchuklana.github.io/vue2_hotel-booking-calendar/)
 
 ## Project setup
 ```
